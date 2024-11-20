@@ -1,0 +1,100 @@
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_Project_1.resources
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_Project_1.resources
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_Project_1.resources
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_Project_1.resources
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\Project 1\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_Project_1.resources
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\User\Downloads\WindowsFormsApp_COP_4365\WindowsFormsApp COP 4365\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+D:\Projects\USF\Spring 24\Software Systems Development\Project 2\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Downloads\Project 2\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Form_StockViewer.resources
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp_COP_4365.Properties.Resources.resources
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\User\Downloads\Project 3\WindowsFormsApp COP 4365\obj\Debug\WindowsFormsApp COP 4365.pdb
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe.config
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.exe
+C:\Users\MugBook\Desktop\Software Sytems Dev COP 4365\Project 3\WindowsFormsApp COP 4365\bin\Debug\WindowsFormsApp COP 4365.pdb
